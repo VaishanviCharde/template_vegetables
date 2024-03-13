@@ -639,7 +639,6 @@
     <!-- MODAL AREA END -->
 </div>
 <!-- Body main wrapper end -->    
-
     <!-- preloader area start -->
     <div class="preloader d-none" id="preloader">
         <div class="preloader-inner">
@@ -650,7 +649,6 @@
         </div>
     </div>
     <!-- preloader area end -->
-
     <!-- All JS Plugins -->
     <script src="<?= base_url(); ?>assets/<?= TEMPNAME; ?>/js/plugins.js"></script>
     <!-- Main JS -->
@@ -662,7 +660,6 @@
     <script src="<?= base_url(); ?>assets/<?= TEMPNAME; ?>/js/intlTelInput.min.js"></script>  
     <!-- App Common Custom JS -->
     <script src="<?= base_url(); ?>assets/<?= TEMPNAME; ?>/js/app-custom.js"></script>
-
     <script>
         $(function() {
             // var custId = $("#custId").val();
